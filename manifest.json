@@ -1,1 +1,16 @@
-mani
+{
+  "_note": "File mau manifest cho co che tu kiem tra cap nhat + nhac nen theo mua cua Kizaru AutoQuest. Sau khi upload file mp3 that len repo (goi y: thu muc assets/), thay url va sha256 tuong ung roi day file nay len nhanh main. App doc ban nay qua raw.githubusercontent.com, KHONG can rebuild app khi doi mua nhac.",
+  "app_version": "1.0.0",
+  "release_url": "https://github.com/hoanglonggg79/autoquest/releases/latest",
+  "changelogs": [
+    "Phien ban mau. Thay dong nay bang ghi chu thay doi that moi khi phat hanh ban moi."
+  ],
+  "music": {
+    "enabled": true,
+    "season": "default",
+    "label": "Nhac nen mac dinh",
+    "file": "bgm-default.mp3",
+    "url": "https://raw.githubusercontent.com/hoanglonggg79/autoquest/main/assets/bgm-default.mp3",
+    "sha256": "__REPLACE_ME_AFTER_UPLOAD__"
+  }
+}
