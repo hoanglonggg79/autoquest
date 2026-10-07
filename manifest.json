@@ -3,14 +3,14 @@
   "app_version": "1.0.0",
   "release_url": "https://github.com/hoanglonggg79/autoquest/releases/latest",
   "changelogs": [
-    "Phien ban mau. Thay dong nay bang ghi chu thay doi that moi khi phat hanh ban moi."
+    "Phiên bản mẫu."
   ],
   "music": {
     "enabled": true,
     "season": "default",
-    "label": "Nhac nen mac dinh",
+    "label": "Nhạc nền mặc định",
     "file": "bgm-default.mp3",
     "url": "https://raw.githubusercontent.com/hoanglonggg79/autoquest/main/assets/bgm-default.mp3",
-    "sha256": "__REPLACE_ME_AFTER_UPLOAD__"
+    "sha256": "70dc57a57f2171a2b0b3e9136b75fb0f821a11dff5fa938c181cbd7a6bd1af46"
   }
 }
