@@ -1,6 +1,6 @@
 {
-  "_note": "File mau manifest cho co che tu kiem tra cap nhat + nhac nen theo mua cua Kizaru AutoQuest. Sau khi upload file mp3 that len repo (goi y: thu muc assets/), thay url va sha256 tuong ung roi day file nay len nhanh main. App doc ban nay qua raw.githubusercontent.com, KHONG can rebuild app khi doi mua nhac.",
-  "app_version": "1.0.0",
+  "_note": ".",
+  "app_version": "1.0.1",
   "release_url": "https://github.com/hoanglonggg79/autoquest/releases/latest",
   "changelogs": [
     "Phiên bản mẫu."
